@@ -36,7 +36,7 @@ con.connect(function (err) {
                 //console.log('total kec', lala[total_prov].kota[total_kota].kecamatan.length, lala[total_prov].kota[total_kota].kecamatan[total_kec].nama);
 
                 //INSERT KE DB
-                var insert = "INSERT INTO DATA_WILAYAH (bps_prov, bps_kota, bps_kecamatan, bps_id_rajaongkir) VALUES ('" + lala[total_prov].nama + "', '" + lala[total_prov].kota[total_kota].nama + "','" + lala[total_prov].kota[total_kota].kecamatan[total_kec].nama + "','" + lala[total_prov].kota[total_kota].kecamatan[total_kec].rajaongkir_id + "')";
+                var insert = "INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir) VALUES ('" + lala[total_prov].id + "', '" + lala[total_prov].nama + "', '" + lala[total_prov].kota[total_kota].id + "','" + lala[total_prov].kota[total_kota].nama + "','" + lala[total_prov].kota[total_kota].kecamatan[total_kec].nama + "','" + lala[total_prov].kota[total_kota].kecamatan[total_kec].rajaongkir_id + "')";
                 con.query(insert, function (err, result) {
                     if (err) throw err;
                     console.log("record inserted", total_data_inserted);
