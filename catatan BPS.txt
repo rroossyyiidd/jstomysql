@@ -1,0 +1,78 @@
+
+"id": 33, //prov id
+"id": 3501, //kota id
+
+//KALIMANTAN BARAT
+//KABUPATEN KUBU RAYA
+{
+    "id": 6112040,
+    "kota_id": 6112,
+    "nama": "TELOK PA'KEDAI",
+    "rajaongkir_id": ""
+},
+//NUSA TENGGARA BARAT
+//KABUPATEN DOMPU
+{
+    "id": 5205010,
+    "kota_id": 5205,
+    "nama": "HU'U",
+    "rajaongkir_id": "1610"
+},
+//NUSA TENGGARA TIMUR
+//KABUPATEN TIMOR TENGAH SELATAN
+{
+    "id": 5304091,
+    "kota_id": 5304,
+    "nama": "KOT'OLIN",
+    "rajaongkir_id": ""
+},
+//SULAWESI SELATAN
+//KABUPATEN BANTAENG
+{
+    "id": 7303031,
+    "kota_id": 7303,
+    "nama": "PA'JUKUKANG",
+    "rajaongkir_id": ""
+},
+//SULAWESI SELATAN
+//KABUPATEN PANGKAJENE DAN KEPULAUAN
+{
+    "id": 7309080,
+    "kota_id": 7309,
+    "nama": "MA'RANG",
+    "rajaongkir_id": ""
+},
+//SULAWESI SELATAN
+//KABUPATEN TORAJA UTARA
+{
+    "id": 7326130,
+    "kota_id": 7326,
+    "nama": "SA'DAN",
+    "rajaongkir_id": "6751"
+},
+//SULAWESI UTARA
+//KABUPATEN KEPULAUAN TALAUD
+{
+    "id": 7104051,
+    "kota_id": 7104,
+    "nama": "TAMPA NA'MMA",
+    "rajaongkir_id": ""
+},
+//SUMATERA UTARA
+//KABUPATEN NIAS SELATAN
+{
+    "id": 1214080,
+    "kota_id": 1214,
+    "nama": "LOLOWA'U",
+    "rajaongkir_id": ""
+},
+
+=================================================
+
+https://www.w3schools.com/nodejs/nodejs_mysql_insert.asp
+
+=================================================
+
+1. input data BPS
+2. get bps_id_rajaongkir di data bps
+3. update ke data_wilayah di kolom
