@@ -1,7 +1,7 @@
 var mysql = require('mysql');
 var fs = require('fs');
 
-var data = fs.readFileSync('../datarjo.json', 'utf8');
+var data = fs.readFileSync('datarjo.json', 'utf8');
 var datarjo = JSON.parse(data);
 
 var con = mysql.createConnection({
@@ -15,7 +15,7 @@ var dataWilayah;
 con.connect(function (err) {
 
     if (err) throw err;
-    con.query("SELECT bps_id_rajaongkir FROM data_wilayah where bps_id_kota = 1101", function (err, result, fields) {
+    con.query("SELECT bps_id_rajaongkir FROM data_wilayah", function (err, result, fields) {
         if (err) throw err;
         dataWilayah = result;
 
