@@ -5,10 +5,10 @@
     "id": 6112040,
     "kota_id": 6112,
     "nama": "TELOK PA'KEDAI",
-    "rajaongkir_id": ""
+    "rajaongkir_id": "2919"
 },
 INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("61", "KALIMANTAN BARAT", "6112", "KABUPATEN KUBU RAYA", "6112040", "TELOK PA'KEDAI", "")
+VALUES ("61", "KALIMANTAN BARAT", "6112", "KABUPATEN KUBU RAYA", "6112040", "TELOK PA'KEDAI", "2919")
 
 //NUSA TENGGARA BARAT 52
 //KABUPATEN DOMPU 5205
@@ -27,10 +27,10 @@ VALUES ("52", "NUSA TENGGARA BARAT", "5205", "KABUPATEN DOMPU", "5205010", "HU'U
     "id": 5304091,
     "kota_id": 5304,
     "nama": "KOT'OLIN",
-    "rajaongkir_id": ""
+    "rajaongkir_id": "6610"
 },
 INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("53", "NUSA TENGGARA TIMUR", "5304", "KABUPATEN TIMOR TENGAH SELATAN", "5304091", "KOT'OLIN", "")
+VALUES ("53", "NUSA TENGGARA TIMUR", "5304", "KABUPATEN TIMOR TENGAH SELATAN", "5304091", "KOT'OLIN", "6610")
 
 //SULAWESI SELATAN 73
 //KABUPATEN BANTAENG 7303,
@@ -38,10 +38,10 @@ VALUES ("53", "NUSA TENGGARA TIMUR", "5304", "KABUPATEN TIMOR TENGAH SELATAN", "
     "id": 7303031,
     "kota_id": 7303,
     "nama": "PA'JUKUKANG",
-    "rajaongkir_id": ""
+    "rajaongkir_id": "533"
 },
 INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("73", "SULAWESI SELATAN", "7303", "KABUPATEN BANTAENG", "7303031", "PA'JUKUKANG", "")
+VALUES ("73", "SULAWESI SELATAN", "7303", "KABUPATEN BANTAENG", "7303031", "PA'JUKUKANG", "533")
 
 //SULAWESI SELATAN 73
 //KABUPATEN PANGKAJENE DAN KEPULAUAN 7309,
@@ -49,10 +49,10 @@ VALUES ("73", "SULAWESI SELATAN", "7303", "KABUPATEN BANTAENG", "7303031", "PA'J
     "id": 7309080,
     "kota_id": 7309,
     "nama": "MA'RANG",
-    "rajaongkir_id": ""
+    "rajaongkir_id": "4708"
 },
 INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("73", "SULAWESI SELATAN", "7309", "KABUPATEN PANGKAJENE DAN KEPULAUAN", "7309080", "MA'RANG", "")
+VALUES ("73", "SULAWESI SELATAN", "7309", "KABUPATEN PANGKAJENE DAN KEPULAUAN", "7309080", "MA'RANG", "4708")
 
 //SULAWESI SELATAN 73
 //KABUPATEN TORAJA UTARA 7326
@@ -71,10 +71,10 @@ VALUES ("73", "SULAWESI SELATAN", "7326", "KABUPATEN TORAJA UTARA", "7326130", "
     "id": 7104051,
     "kota_id": 7104,
     "nama": "TAMPA NA'MMA",
-    "rajaongkir_id": ""
+    "rajaongkir_id": "2671"
 },
 INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("71", "SULAWESI UTARA", "7104", "KABUPATEN KEPULAUAN TALAUD", "7104051", "TAMPA NA'MMA", "")
+VALUES ("71", "SULAWESI UTARA", "7104", "KABUPATEN KEPULAUAN TALAUD", "7104051", "TAMPA NA'MMA", "2671")
 
 //SUMATERA UTARA 12
 //KABUPATEN NIAS SELATAN 1214
@@ -82,10 +82,10 @@ VALUES ("71", "SULAWESI UTARA", "7104", "KABUPATEN KEPULAUAN TALAUD", "7104051",
     "id": 1214080,
     "kota_id": 1214,
     "nama": "LOLOWA'U",
-    "rajaongkir_id": ""
+    "rajaongkir_id": "4391"
 },
 INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("12", "SUMATERA UTARA", "1214", "KABUPATEN NIAS SELATAN", "1214080", "LOLOWA'U", "")
+VALUES ("12", "SUMATERA UTARA", "1214", "KABUPATEN NIAS SELATAN", "1214080", "LOLOWA'U", "4391")
 
 =================================================
 

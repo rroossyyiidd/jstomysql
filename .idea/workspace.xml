@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7cd7e5a-b5bb-41e1-a94f-c4557b5ebf1b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/cekvalid.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/catatan BPS.txt" afterPath="$PROJECT_DIR$/catatan BPS.txt" />
       <change beforePath="$PROJECT_DIR$/inputbps.js" afterPath="$PROJECT_DIR$/inputbps.js" />
-      <change beforePath="$PROJECT_DIR$/updaterjo.js" afterPath="$PROJECT_DIR$/updaterjo.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,18 +21,18 @@
       <file leaf-file-name="inputbps.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inputbps.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="187">
+              <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data.json">
+      <file leaf-file-name="databaru.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/databaru.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="786964">
-              <caret line="46292" column="26" lean-forward="false" selection-start-line="46292" selection-start-column="26" selection-end-line="46292" selection-end-column="26" />
+            <state relative-caret-position="316574">
+              <caret line="18622" column="11" lean-forward="false" selection-start-line="18622" selection-start-column="11" selection-end-line="18622" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -43,28 +41,28 @@
       <file leaf-file-name="updaterjo.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/updaterjo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="38" selection-end-column="64" />
+            <state relative-caret-position="408">
+              <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="datarjo.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="datarjo.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datarjo.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1067719">
-              <caret line="62807" column="21" lean-forward="false" selection-start-line="62807" selection-start-column="21" selection-end-line="62807" selection-end-column="21" />
+            <state relative-caret-position="297">
+              <caret line="39589" column="24" lean-forward="true" selection-start-line="39589" selection-start-column="24" selection-end-line="39589" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="catatan BPS.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="catatan BPS.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/catatan BPS.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="346" column="20" lean-forward="true" selection-start-line="346" selection-start-column="20" selection-end-line="346" selection-end-column="20" />
+            <state relative-caret-position="6239">
+              <caret line="367" column="0" lean-forward="false" selection-start-line="367" selection-start-column="0" selection-end-line="367" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,8 +71,8 @@
       <file leaf-file-name="cekvalid.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cekvalid.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="374">
+              <caret line="22" column="134" lean-forward="false" selection-start-line="22" selection-start-column="134" selection-end-line="22" selection-end-column="134" />
               <folding />
             </state>
           </provider>
@@ -93,19 +91,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&quot;id&quot;: 33,</find>
-      <find>6112</find>
-      <find>&quot;id&quot;: 35,</find>
-      <find>&quot;id&quot;: 6112</find>
-      <find>&quot;id&quot;: 61</find>
-      <find>&quot;id&quot;: 5205,</find>
-      <find>5304,</find>
-      <find>&quot;id&quot;: 7309,</find>
-      <find>7326,</find>
-      <find>&quot;id&quot;: 73,</find>
-      <find>&quot;id&quot;: 7104,</find>
-      <find>&quot;id&quot;: 71,</find>
-      <find>&quot;id&quot;: 1214,</find>
       <find>&quot;id&quot;: 12,</find>
       <find>3381</find>
       <find>&quot;id&quot;: 61,</find>
@@ -114,8 +99,28 @@
       <find>&quot;id&quot;: 5304,</find>
       <find>&quot;id&quot;: 7303,</find>
       <find>'nga</find>
-      <find>'</find>
       <find>aceh besar</find>
+      <find>189</find>
+      <find>pidie</find>
+      <find>Negara</find>
+      <find>Marga</find>
+      <find>29</find>
+      <find>Kuta</find>
+      <find>Sumur</find>
+      <find>Anyar</find>
+      <find>341</find>
+      <find>Grogol</find>
+      <find>Cilegon</find>
+      <find>Serang</find>
+      <find>Ngasem</find>
+      <find>Kendal</find>
+      <find>Sukadana</find>
+      <find>Lembang</find>
+      <find>'</find>
+      <find>Meranti</find>
+      <find>3255</find>
+      <find>Toma</find>
+      <find>3525</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,10 +140,11 @@
         <option value="$PROJECT_DIR$/getData.js" />
         <option value="$PROJECT_DIR$/updaterjo.js" />
         <option value="$PROJECT_DIR$/data.json" />
-        <option value="$PROJECT_DIR$/datarjo.json" />
-        <option value="$PROJECT_DIR$/inputbps.js" />
         <option value="$PROJECT_DIR$/cekvalid.js" />
+        <option value="$PROJECT_DIR$/inputbps.js" />
         <option value="$PROJECT_DIR$/catatan BPS.txt" />
+        <option value="$PROJECT_DIR$/databaru.json" />
+        <option value="$PROJECT_DIR$/datarjo.json" />
       </list>
     </option>
   </component>
@@ -189,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -201,7 +208,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,7 +253,11 @@
       <workItem from="1518615099665" duration="1349000" />
       <workItem from="1518661844518" duration="19794000" />
       <workItem from="1518708985086" duration="630000" />
-      <workItem from="1518788808768" duration="212000" />
+      <workItem from="1518788808768" duration="962000" />
+      <workItem from="1518923545335" duration="90000" />
+      <workItem from="1518955967529" duration="3416000" />
+      <workItem from="1519007065239" duration="10186000" />
+      <workItem from="1519045424794" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="add git ignore">
       <created>1518600183039</created>
@@ -291,11 +301,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518668980832</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="save">
+      <created>1518789048282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1518789048283</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36654000" />
+    <option name="totallyTimeSpent" value="51118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="10" width="1346" height="698" extended-state="0" />
@@ -308,7 +325,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291815" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38256228" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5925267" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -557,7 +574,6 @@
     <entry file="file://$PROJECT_DIR$/datarajaongkir.json" />
     <entry file="file://$PROJECT_DIR$/datalokasi.json" />
     <entry file="file://$PROJECT_DIR$/dataasli.json" />
-    <entry file="file://$PROJECT_DIR$/databaru.json" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -575,48 +591,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="786964">
-          <caret line="46292" column="26" lean-forward="false" selection-start-line="46292" selection-start-column="26" selection-end-line="46292" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datarjo.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1067719">
-          <caret line="62807" column="21" lean-forward="false" selection-start-line="62807" selection-start-column="21" selection-end-line="62807" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="161">
+          <caret line="41235" column="33" lean-forward="false" selection-start-line="41235" selection-start-column="30" selection-end-line="41235" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/inputbps.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/updaterjo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="39" lean-forward="false" selection-start-line="36" selection-start-column="39" selection-end-line="38" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cekvalid.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="187">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/catatan BPS.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="346" column="20" lean-forward="true" selection-start-line="346" selection-start-column="20" selection-end-line="346" selection-end-column="20" />
+        <state relative-caret-position="6239">
+          <caret line="367" column="0" lean-forward="false" selection-start-line="367" selection-start-column="0" selection-end-line="367" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/updaterjo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="47" lean-forward="false" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cekvalid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="134" lean-forward="false" selection-start-line="22" selection-start-column="134" selection-end-line="22" selection-end-column="134" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/databaru.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316574">
+          <caret line="18622" column="11" lean-forward="false" selection-start-line="18622" selection-start-column="11" selection-end-line="18622" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datarjo.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="39589" column="24" lean-forward="true" selection-start-line="39589" selection-start-column="24" selection-end-line="39589" selection-end-column="24" />
           <folding />
         </state>
       </provider>

@@ -18,7 +18,7 @@ con.connect(function (err) {
 
     var fs = require('fs');
 
-    var data = fs.readFileSync('data.json', 'utf8');
+    var data = fs.readFileSync('databaru.json', 'utf8');
     var lala = JSON.parse(data);
 
     var total_prov;
