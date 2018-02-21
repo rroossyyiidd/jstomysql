@@ -7,8 +7,6 @@
     "nama": "TELOK PA'KEDAI",
     "rajaongkir_id": "2919"
 },
-INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("61", "KALIMANTAN BARAT", "6112", "KABUPATEN KUBU RAYA", "6112040", "TELOK PA'KEDAI", "2919")
 
 //NUSA TENGGARA BARAT 52
 //KABUPATEN DOMPU 5205
@@ -18,8 +16,6 @@ VALUES ("61", "KALIMANTAN BARAT", "6112", "KABUPATEN KUBU RAYA", "6112040", "TEL
     "nama": "HU'U",
     "rajaongkir_id": "1610"
 },
-INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("52", "NUSA TENGGARA BARAT", "5205", "KABUPATEN DOMPU", "5205010", "HU'U", "1610")
 
 //NUSA TENGGARA TIMUR 53
 //KABUPATEN TIMOR TENGAH SELATAN 5304
@@ -29,8 +25,6 @@ VALUES ("52", "NUSA TENGGARA BARAT", "5205", "KABUPATEN DOMPU", "5205010", "HU'U
     "nama": "KOT'OLIN",
     "rajaongkir_id": "6610"
 },
-INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("53", "NUSA TENGGARA TIMUR", "5304", "KABUPATEN TIMOR TENGAH SELATAN", "5304091", "KOT'OLIN", "6610")
 
 //SULAWESI SELATAN 73
 //KABUPATEN BANTAENG 7303,
@@ -40,8 +34,6 @@ VALUES ("53", "NUSA TENGGARA TIMUR", "5304", "KABUPATEN TIMOR TENGAH SELATAN", "
     "nama": "PA'JUKUKANG",
     "rajaongkir_id": "533"
 },
-INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("73", "SULAWESI SELATAN", "7303", "KABUPATEN BANTAENG", "7303031", "PA'JUKUKANG", "533")
 
 //SULAWESI SELATAN 73
 //KABUPATEN PANGKAJENE DAN KEPULAUAN 7309,
@@ -51,8 +43,6 @@ VALUES ("73", "SULAWESI SELATAN", "7303", "KABUPATEN BANTAENG", "7303031", "PA'J
     "nama": "MA'RANG",
     "rajaongkir_id": "4708"
 },
-INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("73", "SULAWESI SELATAN", "7309", "KABUPATEN PANGKAJENE DAN KEPULAUAN", "7309080", "MA'RANG", "4708")
 
 //SULAWESI SELATAN 73
 //KABUPATEN TORAJA UTARA 7326
@@ -62,8 +52,6 @@ VALUES ("73", "SULAWESI SELATAN", "7309", "KABUPATEN PANGKAJENE DAN KEPULAUAN", 
     "nama": "SA'DAN",
     "rajaongkir_id": "6751"
 },
-INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("73", "SULAWESI SELATAN", "7326", "KABUPATEN TORAJA UTARA", "7326130", "SA'DAN", "6751")
 
 //SULAWESI UTARA 71
 //KABUPATEN KEPULAUAN TALAUD 7104
@@ -73,8 +61,6 @@ VALUES ("73", "SULAWESI SELATAN", "7326", "KABUPATEN TORAJA UTARA", "7326130", "
     "nama": "TAMPA NA'MMA",
     "rajaongkir_id": "2671"
 },
-INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("71", "SULAWESI UTARA", "7104", "KABUPATEN KEPULAUAN TALAUD", "7104051", "TAMPA NA'MMA", "2671")
 
 //SUMATERA UTARA 12
 //KABUPATEN NIAS SELATAN 1214
@@ -84,8 +70,30 @@ VALUES ("71", "SULAWESI UTARA", "7104", "KABUPATEN KEPULAUAN TALAUD", "7104051",
     "nama": "LOLOWA'U",
     "rajaongkir_id": "4391"
 },
+
 INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
-VALUES ("12", "SUMATERA UTARA", "1214", "KABUPATEN NIAS SELATAN", "1214080", "LOLOWA'U", "4391")
+VALUES ("61", "KALIMANTAN BARAT", "6112", "KABUPATEN KUBU RAYA", "6112040", "TELOK PA'KEDAI", "2919");
+
+INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
+VALUES ("52", "NUSA TENGGARA BARAT", "5205", "KABUPATEN DOMPU", "5205010", "HU'U", "1610");
+
+INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
+VALUES ("53", "NUSA TENGGARA TIMUR", "5304", "KABUPATEN TIMOR TENGAH SELATAN", "5304091", "KOT'OLIN", "6610");
+
+INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
+VALUES ("73", "SULAWESI SELATAN", "7303", "KABUPATEN BANTAENG", "7303031", "PA'JUKUKANG", "533");
+
+INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
+VALUES ("73", "SULAWESI SELATAN", "7309", "KABUPATEN PANGKAJENE DAN KEPULAUAN", "7309080", "MA'RANG", "4708");
+
+INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
+VALUES ("73", "SULAWESI SELATAN", "7326", "KABUPATEN TORAJA UTARA", "7326130", "SA'DAN", "6751");
+
+INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
+VALUES ("71", "SULAWESI UTARA", "7104", "KABUPATEN KEPULAUAN TALAUD", "7104051", "TAMPA NA'MMA", "2671");
+
+INSERT INTO DATA_WILAYAH (bps_id_prov, bps_prov, bps_id_kota, bps_kota, bps_id_kecamatan, bps_kecamatan, bps_id_rajaongkir)
+VALUES ("12", "SUMATERA UTARA", "1214", "KABUPATEN NIAS SELATAN", "1214080", "LOLOWA'U", "4391");
 
 =================================================
 
@@ -110,15 +118,6 @@ DATA DI RJO
     "subdistrict_name": "Hu'u"
   },
 
-UPDATE data_wilayah
-SET raja_id_prov = "22",
-raja_prov = "Nusa Tenggara Barat (NTB)",
-raja_id_city = "118",
-raja_city = "Dompu",
-raja_id_subd = "1610",
-raja_subd = "Hu'u"
-WHERE bps_id_rajaongkir = "1610";
-
   {
     "subdistrict_id": "1896",
     "province_id": "34",
@@ -128,15 +127,6 @@ WHERE bps_id_rajaongkir = "1610";
     "type": "Kota",
     "subdistrict_name": "Gunungsitoli Alo'oa"
   },
-
-UPDATE data_wilayah
-SET raja_id_prov = "34",
-raja_id_subd = "1896",
-raja_prov = "Sumatera Utara",
-raja_id_city = "137",
-raja_city = "Gunungsitoli",
-raja_subd = "Gunungsitoli Alo'oa"
-WHERE bps_id_rajaongkir = "1896";
 
   {
     "subdistrict_id": "4368",
@@ -148,15 +138,6 @@ WHERE bps_id_rajaongkir = "1896";
     "subdistrict_name": "Ma'u"
   },
 
-UPDATE data_wilayah
-SET raja_id_prov = "34",
-raja_id_subd = "4368",
-raja_prov = "Sumatera Utara",
-raja_id_city = "307",
-raja_city = "Nias",
-raja_subd = "Ma'u"
-WHERE bps_id_rajaongkir = "4368";
-
   {
     "subdistrict_id": "4377",
     "province_id": "34",
@@ -166,15 +147,6 @@ WHERE bps_id_rajaongkir = "4368";
     "type": "Kabupaten",
     "subdistrict_name": "Moro'o"
   },
-
-UPDATE data_wilayah
-SET raja_id_prov = "34",
-raja_id_subd = "4377",
-raja_prov = "Sumatera Utara",
-raja_id_city = "308",
-raja_city = "Nias Barat",
-raja_subd = "Moro'o"
-WHERE bps_id_rajaongkir = "4377";
 
   {
     "subdistrict_id": "4379",
@@ -186,15 +158,6 @@ WHERE bps_id_rajaongkir = "4377";
     "subdistrict_name": "Ulu Moro'o (Ulu Narwo)"
   },
 
-UPDATE data_wilayah
-SET raja_id_prov = "34",
-raja_id_subd = "4379",
-raja_prov = "Sumatera Utara",
-raja_id_city = "308",
-raja_city = "Nias Barat",
-raja_subd = "Ulu Moro'o (Ulu Narwo)"
-WHERE bps_id_rajaongkir = "4379";
-
   {
     "subdistrict_id": "4387",
     "province_id": "34",
@@ -204,15 +167,6 @@ WHERE bps_id_rajaongkir = "4379";
     "type": "Kabupaten",
     "subdistrict_name": "Hilisalawa'ahe (Hilisalawaahe)"
   },
-
-UPDATE data_wilayah
-SET raja_id_prov = "34",
-raja_id_subd = "4387",
-raja_prov = "Sumatera Utara",
-raja_id_city = "309",
-raja_city = "Nias Selatan",
-raja_subd = "Hilisalawa'ahe (Hilisalawaahe)"
-WHERE bps_id_rajaongkir = "4387";
 
   {
     "subdistrict_id": "4395",
@@ -224,15 +178,6 @@ WHERE bps_id_rajaongkir = "4387";
     "subdistrict_name": "O'o'u (Oou)"
   },
 
-UPDATE data_wilayah
-SET raja_id_prov = "34",
-raja_id_subd = "4395",
-raja_prov = "Sumatera Utara",
-raja_id_city = "309",
-raja_city = "Nias Selatan",
-raja_subd = "O'o'u (Oou)"
-WHERE bps_id_rajaongkir = "4395";
-
   {
     "subdistrict_id": "4401",
     "province_id": "34",
@@ -242,15 +187,6 @@ WHERE bps_id_rajaongkir = "4395";
     "type": "Kabupaten",
     "subdistrict_name": "Sidua'ori"
   },
-
-UPDATE data_wilayah
-SET raja_id_prov = "34",
-raja_id_subd = "4401",
-raja_prov = "Sumatera Utara",
-raja_id_city = "309",
-raja_city = "Nias Selatan",
-raja_subd = "Sidua'ori"
-WHERE bps_id_rajaongkir = "4401";
 
   {
     "subdistrict_id": "4648",
@@ -262,15 +198,6 @@ WHERE bps_id_rajaongkir = "4401";
     "subdistrict_name": "Palenga'an"
   },
 
-UPDATE data_wilayah
-SET raja_id_prov = "11",
-raja_id_subd = "4648",
-raja_prov = "Jawa Timur",
-raja_id_city = "330",
-raja_city = "Pamekasan",
-raja_subd = "Palenga'an"
-WHERE bps_id_rajaongkir = "4648";
-
   {
     "subdistrict_id": "6113",
     "province_id": "11",
@@ -280,15 +207,6 @@ WHERE bps_id_rajaongkir = "4648";
     "type": "Kabupaten",
     "subdistrict_name": "Ra'as (Raas)"
   },
-
-UPDATE data_wilayah
-SET raja_id_prov = "11",
-raja_id_subd = "6113",
-raja_prov = "Jawa Timur",
-raja_id_city = "441",
-raja_city = "Sumenep",
-raja_subd = "Ra'as (Raas)"
-WHERE bps_id_rajaongkir = "6113";
 
   {
     "subdistrict_id": "6607",
@@ -300,15 +218,6 @@ WHERE bps_id_rajaongkir = "6113";
     "subdistrict_name": "Kie (Ki'e)"
   },
 
-UPDATE data_wilayah
-SET raja_id_prov = "23",
-raja_id_subd = "6607",
-raja_prov = "Nusa Tenggara Timur (NTT)",
-raja_id_city = "479",
-raja_city = "Timor Tengah Selatan",
-raja_subd = "Kie (Ki'e)"
-WHERE bps_id_rajaongkir = "6607";
-
   {
     "subdistrict_id": "6744",
     "province_id": "28",
@@ -319,15 +228,6 @@ WHERE bps_id_rajaongkir = "6607";
     "subdistrict_name": "Dende' Piongan Napo"
   },
 
-UPDATE data_wilayah
-SET raja_id_prov = "28",
-raja_id_subd = "6744",
-raja_prov = "Sulawesi Selatan",
-raja_id_city = "486",
-raja_city = "Toraja Utara",
-raja_subd = "Dende' Piongan Napo"
-WHERE bps_id_rajaongkir = "6744";
-
   {
     "subdistrict_id": "6751",
     "province_id": "28",
@@ -337,15 +237,6 @@ WHERE bps_id_rajaongkir = "6744";
     "type": "Kabupaten",
     "subdistrict_name": "Sa'dan"
   },
-
-UPDATE data_wilayah
-SET raja_id_prov = "28",
-raja_id_subd = "6751",
-raja_prov = "Sulawesi Selatan",
-raja_id_city = "486",
-raja_city = "Toraja Utara",
-raja_subd = "Sa'dan"
-WHERE bps_id_rajaongkir = "6751";
 
   {
     "subdistrict_id": "36",
@@ -358,6 +249,123 @@ WHERE bps_id_rajaongkir = "6751";
   },
 
 UPDATE data_wilayah
+SET raja_id_prov = "22",
+raja_prov = "Nusa Tenggara Barat (NTB)",
+raja_id_city = "118",
+raja_city = "Dompu",
+raja_id_subd = "1610",
+raja_subd = "Hu'u"
+WHERE bps_id_rajaongkir = "1610";
+
+UPDATE data_wilayah
+SET raja_id_prov = "34",
+raja_id_subd = "1896",
+raja_prov = "Sumatera Utara",
+raja_id_city = "137",
+raja_city = "Gunungsitoli",
+raja_subd = "Gunungsitoli Alo'oa"
+WHERE bps_id_rajaongkir = "1896";
+
+UPDATE data_wilayah
+SET raja_id_prov = "34",
+raja_id_subd = "4368",
+raja_prov = "Sumatera Utara",
+raja_id_city = "307",
+raja_city = "Nias",
+raja_subd = "Ma'u"
+WHERE bps_id_rajaongkir = "4368";
+
+UPDATE data_wilayah
+SET raja_id_prov = "34",
+raja_id_subd = "4377",
+raja_prov = "Sumatera Utara",
+raja_id_city = "308",
+raja_city = "Nias Barat",
+raja_subd = "Moro'o"
+WHERE bps_id_rajaongkir = "4377";
+
+UPDATE data_wilayah
+SET raja_id_prov = "34",
+raja_id_subd = "4379",
+raja_prov = "Sumatera Utara",
+raja_id_city = "308",
+raja_city = "Nias Barat",
+raja_subd = "Ulu Moro'o (Ulu Narwo)"
+WHERE bps_id_rajaongkir = "4379";
+
+UPDATE data_wilayah
+SET raja_id_prov = "34",
+raja_id_subd = "4387",
+raja_prov = "Sumatera Utara",
+raja_id_city = "309",
+raja_city = "Nias Selatan",
+raja_subd = "Hilisalawa'ahe (Hilisalawaahe)"
+WHERE bps_id_rajaongkir = "4387";
+
+UPDATE data_wilayah
+SET raja_id_prov = "34",
+raja_id_subd = "4395",
+raja_prov = "Sumatera Utara",
+raja_id_city = "309",
+raja_city = "Nias Selatan",
+raja_subd = "O'o'u (Oou)"
+WHERE bps_id_rajaongkir = "4395";
+
+UPDATE data_wilayah
+SET raja_id_prov = "34",
+raja_id_subd = "4401",
+raja_prov = "Sumatera Utara",
+raja_id_city = "309",
+raja_city = "Nias Selatan",
+raja_subd = "Sidua'ori"
+WHERE bps_id_rajaongkir = "4401";
+
+UPDATE data_wilayah
+SET raja_id_prov = "11",
+raja_id_subd = "4648",
+raja_prov = "Jawa Timur",
+raja_id_city = "330",
+raja_city = "Pamekasan",
+raja_subd = "Palenga'an"
+WHERE bps_id_rajaongkir = "4648";
+
+UPDATE data_wilayah
+SET raja_id_prov = "11",
+raja_id_subd = "6113",
+raja_prov = "Jawa Timur",
+raja_id_city = "441",
+raja_city = "Sumenep",
+raja_subd = "Ra'as (Raas)"
+WHERE bps_id_rajaongkir = "6113";
+
+UPDATE data_wilayah
+SET raja_id_prov = "23",
+raja_id_subd = "6607",
+raja_prov = "Nusa Tenggara Timur (NTT)",
+raja_id_city = "479",
+raja_city = "Timor Tengah Selatan",
+raja_subd = "Kie (Ki'e)"
+WHERE bps_id_rajaongkir = "6607";
+
+UPDATE data_wilayah
+SET raja_id_prov = "28",
+raja_id_subd = "6744",
+raja_prov = "Sulawesi Selatan",
+raja_id_city = "486",
+raja_city = "Toraja Utara",
+raja_subd = "Dende' Piongan Napo"
+WHERE bps_id_rajaongkir = "6744";
+
+UPDATE data_wilayah
+SET raja_id_prov = "28",
+raja_id_subd = "6751",
+raja_prov = "Sulawesi Selatan",
+raja_id_city = "486",
+raja_city = "Toraja Utara",
+raja_subd = "Sa'dan"
+WHERE bps_id_rajaongkir = "6751";
+
+UPDATE data_wilayah
 SET raja_id_prov = "21",
 raja_id_subd = "36",
 raja_prov = "Nanggroe Aceh Darussalam (NAD)",
@@ -365,6 +373,17 @@ raja_id_city = "3",
 raja_city = "Aceh Besar",
 raja_subd = "Lhoknga (Lho'nga)"
 WHERE bps_id_rajaongkir = "36";
+
+UPDATE SAKO
+
+UPDATE data_wilayah
+SET raja_id_prov = "33",
+raja_id_subd = "4620",
+raja_prov = "Sumatera Selatan",
+raja_id_city = "327",
+raja_city = "Palembang",
+raja_subd = "Sako"
+WHERE bps_id_rajaongkir = "4620";
 
 =======================================================
 
