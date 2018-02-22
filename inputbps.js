@@ -10,7 +10,7 @@ var con = mysql.createConnection({
 con.connect(function (err) {
     if (err) throw err;
     console.log("Connected!");
-    var sql = "CREATE TABLE DATA_WILAYAH (ID int NOT NULL AUTO_INCREMENT, bps_id_prov VARCHAR(255), bps_prov VARCHAR(255), bps_id_kota VARCHAR(255), bps_kota VARCHAR(255), bps_id_kecamatan VARCHAR(255), bps_kecamatan VARCHAR(255), bps_id_rajaongkir VARCHAR(255), raja_id_prov VARCHAR(255), raja_prov VARCHAR(255), raja_id_city VARCHAR(255), raja_city VARCHAR(255), raja_id_subd VARCHAR(255), raja_subd VARCHAR(255), valid VARCHAR(255), PRIMARY KEY (ID))";
+    var sql = "CREATE TABLE DATA_WILAYAH (ID int NOT NULL AUTO_INCREMENT, bps_id_prov VARCHAR(255), bps_prov VARCHAR(255), type_kota VARCHAR(255), bps_id_kota VARCHAR(255), bps_kota VARCHAR(255), bps_id_kecamatan VARCHAR(255), bps_kecamatan VARCHAR(255), bps_id_rajaongkir VARCHAR(255), raja_id_prov VARCHAR(255), raja_prov VARCHAR(255), raja_id_city VARCHAR(255), raja_city VARCHAR(255), raja_id_subd VARCHAR(255), raja_subd VARCHAR(255), valid VARCHAR(255), PRIMARY KEY (ID))";
     con.query(sql, function (err, result) {
         if (err) throw err;
         console.log("Table created");

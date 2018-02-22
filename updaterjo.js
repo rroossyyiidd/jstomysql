@@ -26,11 +26,10 @@ con.connect(function (err) {
             var cek = datarjo.filter(function (value) {
                 return value.subdistrict_id === dataWilayah[x].bps_id_rajaongkir
             });
-            //console.log("hasil cek: ", cek);
             if (cek.length !== 0) {
                 //update ke DB
                 var sql = "UPDATE data_wilayah " +
-                    "SET raja_id_prov = '"+cek[0].province_id+"', raja_prov = '"+cek[0].province+"', raja_id_city = '"+cek[0].city_id+"', raja_city = '"+cek[0].city+"', raja_id_subd = '"+cek[0].subdistrict_id+"', raja_subd = '"+cek[0].subdistrict_name+"'" +
+                    "SET type_kota = '"+cek[0].type+"', raja_id_prov = '"+cek[0].province_id+"', raja_prov = '"+cek[0].province+"', raja_id_city = '"+cek[0].city_id+"', raja_city = '"+cek[0].city+"', raja_id_subd = '"+cek[0].subdistrict_id+"', raja_subd = '"+cek[0].subdistrict_name+"'" +
                     "WHERE bps_id_rajaongkir = '"+cek[0].subdistrict_id+"'";
 
                 con.query(sql, function (err, result) {

@@ -28,6 +28,7 @@ con.connect(function (err) {
                     var cek = data.find(item => item.bps_id_kota == value2.id);
                     return {
                         ...value2,
+                        type: cek['type_kota'],
                         rajaongkir_id_city: cek['raja_id_city'],
                         kecamatan: value2.kecamatan.map(value3 => {
                             return {
