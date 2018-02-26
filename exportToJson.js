@@ -29,7 +29,7 @@ con.connect(function (err) {
                     return {
                         ...value2,
                         type: cek['type_kota'],
-                        rajaongkir_id_city: cek['raja_id_city'],
+                        rajaongkir_id: cek['raja_id_city'],
                         kecamatan: value2.kecamatan.map(value3 => {
                             return {
                                 ...value3,
